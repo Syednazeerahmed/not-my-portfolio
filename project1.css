@@ -1,0 +1,220 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+*{
+    margin: 0;
+    padding:0;
+}
+
+.body-1 {
+    background-color: rgb(92, 83, 112);
+    width:auto;
+    height:655px ;
+    padding-bottom:40px;
+    
+}
+.body-1-contents{
+    display: flex;
+    justify-content: center;
+    color: WHITE; 
+   
+} 
+.b1h1{
+    /* font-family: ; */
+    font-size: 140px;
+    padding-top: 50px;
+    font-weight: 100;
+    font-family:'Dancing Script';
+}
+
+.b1h2{
+    font-size: 70px;
+    padding-top:15px;
+    font-weight: 100;
+    font-family:'Dancing Script' ;
+   
+}
+
+.b1p{
+    font-size:24px;
+    padding:10px;
+    text-align: center;
+    line-height: 40px;
+}
+  /*    Body 2  */
+.b2{
+    background-color:rgb(171, 146, 191) ;
+    padding:90px ;
+}
+.b2h2{
+    color: rgb(32, 32, 32);
+    font-size: 70px;
+    
+    font-weight: 100;
+    font-family:'Dancing Script' ;
+}
+
+.b2p1{
+    font-size:24px;
+    color: rgb(32, 32, 32);
+    padding:40px 0 0 0;
+    
+}
+
+.b2img{
+    padding:28px 0 0 0;
+    width: 500px;
+}
+
+.b2h3{
+    color:rgb(32,32,32);
+    font-size: 28px;
+    padding:30px 0 0 0;
+}
+
+.b2p{
+    color:rgb(32,32,32);
+    font-size: 24.5px;
+    padding:30px 0 0 0;
+    line-height: 40px;
+    word-spacing: 1px;
+}
+li{
+    margin-left:30px;
+}
+        /* body 3 */
+.b3{
+    background-color:rgb(175, 193, 214) ;
+    padding:60px 90px;
+}
+
+.b3h2{
+    color: rgb(32, 32, 32);
+    font-size: 70px;
+    
+    font-weight: 100;
+    font-family:'Dancing Script' ;
+}
+
+.b3h3{
+    margin:30px 0 10px 0;
+    font-size: 30px;
+
+}
+
+.b3p1{
+    font-size:24px;
+    color: rgb(32, 32, 32);
+    line-height: 40px;
+    padding:35px 0 35px 0;
+    
+}
+
+.b3pl{
+    font-size:24px;
+    color: rgb(32, 32, 32);
+    line-height: 40px;
+   
+}
+.b3p{
+    font-size:24px;
+    margin:0 0 10px;
+
+ }
+
+            /* body 4 */
+
+.b4{
+    background-color:rgb(206,249,242);
+    padding:90px ;
+    padding-bottom:30px;
+}
+
+.b4h2{
+    color: rgb(32, 32, 32);
+    font-size: 70px;
+    
+    font-weight: 100;
+    font-family:'Dancing Script' ;
+}
+.b4h3{
+    margin:30px 0 10px 0;
+    font-size: 30px;
+
+}
+
+.b4p{
+    font-size:24px;
+    margin:0 0 0px;
+    line-height: 40px;
+ }
+
+            
+
+
+
+
+hr {
+    border:none;
+    border-top:2px dotted rgb(0, 0, 0);
+    color:#fff;
+   
+   
+    height:1px;
+    width:100%;
+    margin:10px auto 
+}
+
+button{
+    padding: 24px 22px;
+    border-radius: 8px;
+    background-color: rgb(92, 83, 112);
+    font-size: 23px;
+    font-family: '';
+    margin:25px 0 50px;
+    
+}
+
+button a{
+    color:#fff;
+}
+a{
+   text-decoration: none;
+   color:#fff;
+}
+
+
+
+
+
+footer{
+    background-color: rgb(214,202,155);
+    padding:70px ;
+    padding-bottom:50px;
+}
+
+footer h2{
+    color: rgb(32, 32, 32);
+    font-size: 70px;
+    display: flex;
+    justify-content: center;
+    font-weight: 100;
+    font-family:'Dancing Script' ;
+    
+}
+
+footer ul{
+    margin-top:50px
+}
+footer li{
+    text-decoration: none;
+    color: black;
+    display: flex;
+    justify-content: center;
+    font-size:25px;
+    padding: 8px;
+    font-weight:500 ;
+}
+
+footer li a{
+    color:#000000;
+}
